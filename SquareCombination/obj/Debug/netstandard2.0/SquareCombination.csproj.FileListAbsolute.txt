@@ -1,8 +1,0 @@
-C:\Users\srinidhir\source\repos\CSharpSamples\SquareCombination\bin\Debug\netstandard2.0\SquareCombination.deps.json
-C:\Users\srinidhir\source\repos\CSharpSamples\SquareCombination\bin\Debug\netstandard2.0\SquareCombination.dll
-C:\Users\srinidhir\source\repos\CSharpSamples\SquareCombination\bin\Debug\netstandard2.0\SquareCombination.pdb
-C:\Users\srinidhir\source\repos\CSharpSamples\SquareCombination\obj\Debug\netstandard2.0\SquareCombination.csproj.CoreCompileInputs.cache
-C:\Users\srinidhir\source\repos\CSharpSamples\SquareCombination\obj\Debug\netstandard2.0\SquareCombination.AssemblyInfoInputs.cache
-C:\Users\srinidhir\source\repos\CSharpSamples\SquareCombination\obj\Debug\netstandard2.0\SquareCombination.AssemblyInfo.cs
-C:\Users\srinidhir\source\repos\CSharpSamples\SquareCombination\obj\Debug\netstandard2.0\SquareCombination.dll
-C:\Users\srinidhir\source\repos\CSharpSamples\SquareCombination\obj\Debug\netstandard2.0\SquareCombination.pdb
